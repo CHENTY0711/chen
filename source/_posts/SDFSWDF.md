@@ -2,8 +2,8 @@
 title: MY FIRSTBOOK
 date: 2020-07-01 14:57:13
 tags:
----
-
+---小Z小
+XZ
 
 
 
@@ -13,7 +13,7 @@ Headings:
 
 # Heading 1
 
-![d43b2197e29cef2b2deb4a352721d7a.jpg](https://i.loli.net/2020/07/01/3AiBb19GxSWlfTP.jpg)
+AHAHA
 
 ## Heading 2
 
